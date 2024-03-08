@@ -1,0 +1,4 @@
+baseURL = 'https://joaosantos123.github.io/nual/'
+languageCode = 'en-us'
+title = 'NUAL Website'
+theme = 'corporio'
